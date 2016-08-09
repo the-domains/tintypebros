@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-09T21:05:27.672Z'
+datePublished: '2016-08-09T21:06:14.306Z'
 sourcePath: _posts/2016-04-15-atmo-sfera-platterless-turntable-spins-vinyl-in-the-air.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/tech/platterless-turntable-atmo-sfera-record-player-kickstarter
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - deva
   - platter
@@ -21,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-09T21:05:26.790Z'
+dateModified: '2016-08-09T21:06:13.213Z'
 title: Atmo Sfera Platterless Turntable Spins Vinyl in the Air
 app_links: []
 publisher:
@@ -38,6 +36,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: atmo-sfera-platterless-turntable-spins-vinyl-in-the-air/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
